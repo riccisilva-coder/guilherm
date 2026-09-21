@@ -6,19 +6,13 @@ header{
 background-color: #FFA500;
       color: #FFFFFF;
       text-align: center;
-        max-width: 800px;
       margin: 0 auto;
-      border: 5px solid #cf1010;
+       padding: 16px;
     }
     main{
       background-color: #FFFFFF;
       color: #FFA500;
       margin: 0 auto;
       padding: 16px;
-          
-      display: flex;
+       
     }
-
-body {
-       max-width: 100vw;
-}
