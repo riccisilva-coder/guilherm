@@ -5,7 +5,17 @@
        --cor-texto: #151428;
        --cor-contraste: #F3EEF7;
        --cor-botao: #F9F9F9;
-
+       
+}
+.tema-escuro {
+        --cor-primaria: #A6CEFE;
+       --cor-primaria: #98CAFF;
+       --cor-fundo: #0F172A;
+       --cor-texto: #FFFFFF;
+       --cor-contraste: #1E293B;
+       --cor-botao: #151428;
+       
+       
 
 
 
