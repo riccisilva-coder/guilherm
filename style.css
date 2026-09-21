@@ -14,5 +14,16 @@ background-color: #FFA500;
       color: #FFA500;
       margin: 0 auto;
       padding: 16px;
+            display: flex;
+           flex-wrap: wrap;
+
+       article {
+              display: flex;
+
+              border: 1px solid #183C63;
+
+              margin: 16 px;
+               gap: 16 px;
+               padding: 16 px;
        
     }
